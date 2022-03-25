@@ -1,5 +1,5 @@
 # Hello, I'm @GraVitY_LuxurY 👋
-I'am a **developer** and **moderator** on __Discord__, currently in high school to become a **professional developper** !
+» I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **professional developper** !
 
 ## 📡 Dev Skill
 - **Javascript** for Discord bot.
@@ -7,10 +7,10 @@ I'am a **developer** and **moderator** on __Discord__, currently in high school 
 - **Python** for... school.
 
 ## 💻 Work at
-- @[TechDevOS](https://techdev-os.fr) » Founder & Developper +
-- @[Inoxtag](https://discord.gg/inoxtag) » Moderator
+- [@TechDevOS](https://techdev-os.fr) » Founder & Developper +
+- [@Inoxtag](https://discord.gg/inoxtag) » Moderator
 
 ## 📌 Contact
 - **TechDev OS** » [Discord](https://discord.gg/txgs7xqxrE)
-- **Discord** » GraVitY_LuxurY²#1308(https://discords.com/bio/p/gralux)
+- **Discord** » [GraVitY_LuxurY²#1308](https://discords.com/bio/p/gralux)
 - **Twitter** » [@GraVitY_LuxurY_](https://twitter.com/GraVitY_LuxurY_)
